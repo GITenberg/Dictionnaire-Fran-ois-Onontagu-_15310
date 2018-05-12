@@ -1,0 +1,34 @@
+_repo: Dictionnaire-Fran-ois-Onontagu-_15310
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shea, John Gilmary
+    aliases:
+    - Shea, Jean-Marie
+    - Shea, J. G. (John Gilmary)
+    - Shea, John Dawson Gilmary
+    birthdate: 1824
+    deathdate: 1892
+    gutenberg_agent_id: '5994'
+    url: http://www.gutenberg.org/2009/agents/5994
+description: ''
+gutenberg_bookshelf: FR Langues
+gutenberg_issued: '2005-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15310'
+language:
+- fr
+- nai
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Dictionaries -- Onondaga'
+- !lcc 'PM'
+- !lcsh 'Onondaga language -- Dictionaries -- French'
+title: Dictionnaire François—Onontagué
+url: http://www.gutenberg.org/ebooks/15310
